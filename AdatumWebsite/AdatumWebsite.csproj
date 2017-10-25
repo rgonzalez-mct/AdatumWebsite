@@ -136,6 +136,8 @@
     <None Include="Properties\PublishProfiles\20533dwebapp - Web Deploy.pubxml" />
     <None Include="Properties\PublishProfiles\a20533dwebapp2 - FTP.pubxml" />
     <None Include="Properties\PublishProfiles\a20533dwebapp2 - Web Deploy.pubxml" />
+    <None Include="Properties\PublishProfiles\pepepepe - FTP.pubxml" />
+    <None Include="Properties\PublishProfiles\pepepepe - Web Deploy.pubxml" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
     <Content Include="Scripts\jquery-1.10.2.min.js" />
